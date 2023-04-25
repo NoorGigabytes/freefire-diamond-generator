@@ -1,0 +1,34 @@
+{
+    "apps": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+        "img": "./assets/img/apps/prime-video.webp"
+      },
+      {
+        "name": "Brave Private Web Browser",
+        "url": "https://play.google.com/store/apps/details?id=com.brave.browser&pli=1",
+        "img": "./assets/img/apps/brave-browser.webp"
+      },
+      {
+        "name": "BookMyShow | Movies & Events",
+        "url": "https://play.google.com/store/apps/details?id=com.bt.bms",
+        "img": "./assets/img/apps/bookmyshow.webp"
+      },
+      {
+        "name": "Free Fire MAX",
+        "url": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+        "img": "./assets/img/apps/ff-max.png"
+      },
+      {
+        "name": "Clash of Clans",
+        "url": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+        "img": "./assets/img/apps/coc.png"
+      }
+    ]
+  }  
+  
+  
+  
+  
+  

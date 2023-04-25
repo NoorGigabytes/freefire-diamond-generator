@@ -1,0 +1,33 @@
+{
+    "bundles": [
+      {
+        "amount": 100,
+        "status": "Free"
+      },
+      {
+        "amount": 310,
+        "status": "Sold Out"
+      },
+      {
+        "amount": 520,
+        "status": "Free"
+      },
+      {
+        "amount": 1060,
+        "status": "Free"
+      },
+      {
+        "amount": 2180,
+        "status": "Sold Out"
+      },
+      {
+        "amount": 5600,
+        "status": "Free"
+      }
+    ]
+  }  
+  
+  
+  
+  
+  
