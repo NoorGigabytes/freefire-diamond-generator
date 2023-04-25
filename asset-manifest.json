@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/freefire-diamond-generator/static/css/main.5f3078f7.css",
+    "main.js": "/freefire-diamond-generator/static/js/main.75fa427d.js",
+    "static/js/787.55750363.chunk.js": "/freefire-diamond-generator/static/js/787.55750363.chunk.js",
+    "static/media/bg.jpg": "/freefire-diamond-generator/static/media/bg.f3975b71459cee536994.jpg",
+    "index.html": "/freefire-diamond-generator/index.html",
+    "main.5f3078f7.css.map": "/freefire-diamond-generator/static/css/main.5f3078f7.css.map",
+    "main.75fa427d.js.map": "/freefire-diamond-generator/static/js/main.75fa427d.js.map",
+    "787.55750363.chunk.js.map": "/freefire-diamond-generator/static/js/787.55750363.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f3078f7.css",
+    "static/js/main.75fa427d.js"
+  ]
+}
